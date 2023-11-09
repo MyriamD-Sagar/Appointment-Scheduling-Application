@@ -5,13 +5,15 @@ The purpose of this application is to create a GUI-based application following a
 
 
 
-### Application Version: 1.0
-### Date: 1/30/2023
+Application Version: 1.0
+
+Date: 1/30/2023
 
 
 ## Author's information
 
 Name: Myriam Drouin-Sagar
+
 Email: midrou_10@hotmail.com
 
 
