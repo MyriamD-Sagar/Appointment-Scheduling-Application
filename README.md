@@ -1,5 +1,6 @@
 # Appointment-Scheduling-Application
-QAM2 - QAM2 TASK 1: JAVA APPLICATION DEVELOPMENT 
+
+ 
 The purpose of this application is to create a GUI-based application following a company's requirements.
 
 
