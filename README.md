@@ -30,7 +30,7 @@ mysql-connector-j-8.0.31
 
 
 
-ADDITIONAL REPORT DESCRIPTION (requirement A3f)
+ADDITIONAL REPORT DESCRIPTION 
 
 The additional report included in my application displays the total number of customer by country.
 The data displayed in the table view is fetched from the database with the customerBycounty() method in the DBReport class.
