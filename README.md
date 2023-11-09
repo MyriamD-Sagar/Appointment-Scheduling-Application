@@ -5,18 +5,18 @@ The purpose of this application is to create a GUI-based application following a
 
 
 
-Application Version: 1.0
-Date: 1/30/2023
+### Application Version: 1.0
+### Date: 1/30/2023
 
 
-AUTHOR'S INFORMATION
+## AUTHOR'S INFORMATION
 
 Name: Myriam Drouin-Sagar
 Email: midrou_10@hotmail.com
 
 
 
-IDE INFORMATION
+## IDE INFORMATION
 
 IntelliJ IDEA Community Edition 2021.1.3 x64
 JDK version: jdk-17.0.1
@@ -24,13 +24,13 @@ Java FX version: javafx-sdk-17.0.1
 
 
 
-DRIVER INFORMATION
+## DRIVER INFORMATION
 
 mysql-connector-j-8.0.31
 
 
 
-ADDITIONAL REPORT DESCRIPTION 
+## ADDITIONAL REPORT DESCRIPTION 
 
 The additional report included in my application displays the total number of customer by country.
 The data displayed in the table view is fetched from the database with the customerBycounty() method in the DBReport class.
@@ -39,7 +39,7 @@ Once the user clicks on the "Reports" button from the AppointmentView form, the 
 
 
 
-HOW TO RUN THE PROGRAM
+## HOW TO RUN THE PROGRAM
 
 The application will be on the form of a zip file.
 On the VM, the user must download and extract all files and note the directory where the project resides.
