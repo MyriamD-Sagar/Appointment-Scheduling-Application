@@ -11,9 +11,7 @@ Date: 1/30/2023
 AUTHOR'S INFORMATION
 
 Name: Myriam Drouin-Sagar
-Student ID: 007857813
-Email: mdroui3@wgu.edu
-Phone: (561) 235-9604
+Email: midrou_10@hotmail.com
 
 
 
