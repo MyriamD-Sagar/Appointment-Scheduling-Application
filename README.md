@@ -21,7 +21,9 @@ Email: midrou_10@hotmail.com
 ## IDE information
 
 IntelliJ IDEA Community Edition 2021.1.3 x64
+
 JDK version: jdk-17.0.1
+
 Java FX version: javafx-sdk-17.0.1
 
 
